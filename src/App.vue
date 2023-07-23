@@ -85,7 +85,7 @@ const ll =() => {
 // import '../../ds-test/dist/OpenSans/OpenSans-Bold.woff2'
 //@ts-ignore
 // import {SberProviderTheme, Button, Title} from '../../ds-test/dist/my-lib.js'
-import {SberProviderTheme, Button, Title} from '@/my-lib.js'
+import {SberProviderTheme, Button, Title} from '@/my-lib'
 const switcher = ref(false)
 
 const ss =() => switcher.value = !switcher.value

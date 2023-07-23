@@ -83,6 +83,7 @@ const ll =() => {
 // import '../../ds-test/dist/OpenSans/OpenSans-Bold.ttf'
 // import '../../ds-test/dist/OpenSans/OpenSans-Bold.woff'
 // import '../../ds-test/dist/OpenSans/OpenSans-Bold.woff2'
+//@ts-ignore
 import {SberProviderTheme, Button, Title} from '../../ds-test/dist/my-lib.js'
 
 const switcher = ref(false)

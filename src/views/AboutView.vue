@@ -5,7 +5,7 @@
 </template>
 
 <style>
-/* test commit  */
+/* test commit 2 */
 @media (min-width: 1024px) {
   .about {
     min-height: 100vh;

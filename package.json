@@ -9,7 +9,6 @@
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false",
     "prepare": "husky install",
-    "test": "echo 1"
   },
   "dependencies": {
     "@commitlint/cli": "^17.7.2",

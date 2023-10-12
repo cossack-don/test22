@@ -1,6 +1,9 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+#https://commitlint.js.org/#/guides-local-setup
+#https://github.com/conventional-changelog/commitlint
+#https://habr.com/ru/articles/119436/  покрасить текст
 GREEN='\033[0;32m'
 RED='\033[0;31m'
 
